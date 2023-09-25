@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cap{
+    transform: translateY(-150px);
+    font-size: 56px;
+    line-height: 2px;
+    font-weight: 600;
+    font-family: "Proxima Nova", "helvetica neue", helvetica, arial, sans-serif;
+    margin: 37.52px, 0px,  5px;
+}
+.tion{
+    transform: translateY(-120px);
+    font-size: 26px;
+    font-weight: 600;
+    font-family: "Proxima Nova", "helvetica neue", helvetica, arial, sans-serif
+}
+.but {
+    padding: 20px;
+    transform: translateY(-90px);
+    border: none;
+    border-radius: 5px;
+    width: 200px;
+    
+}
